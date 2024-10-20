@@ -1,7 +1,7 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
-import Navbar from './components/common/Navbar.vue';
-import Footer from './components/common/Footer.vue';
+import Navbar from './core/components/common/Navbar.vue';
+import Footer from './core/components/common/Footer.vue';
 
 export default defineComponent({
   name: 'App',

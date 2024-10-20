@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import type { RouteRecordRaw } from 'vue-router';
 
-import Blog from '@/modules/blog/views/Blog.vue';
+import Blog from '@/modules/article/views/Post.vue';
 import Home from '@/views/Home.vue';
 
 const routes: Array<RouteRecordRaw> = [
