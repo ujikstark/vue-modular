@@ -21,5 +21,5 @@
               </a>
           </div>
       </div>
-  </footer>
+</footer>
 </template>
